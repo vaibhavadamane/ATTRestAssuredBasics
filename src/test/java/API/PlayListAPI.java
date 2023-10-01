@@ -9,6 +9,7 @@ import com.spotiffy.pojo.Playlist;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 
+// This is an API Playlist
 public class PlayListAPI 
 {
 
